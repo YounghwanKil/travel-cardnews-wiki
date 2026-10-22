@@ -23,3 +23,7 @@ permalink: /links/
 - [Instagram @trip.beforepay](https://www.instagram.com/trip.beforepay/) — 새 계산표와 체크리스트를 받아보세요.
 
 현재 이 페이지에는 제휴 링크가 없습니다. 제휴 링크가 추가되면 버튼보다 앞에 경제적 이해관계를 명확히 표시합니다.
+
+## 승인된 제휴 선택지
+
+{% include active-affiliate-links.md %}
