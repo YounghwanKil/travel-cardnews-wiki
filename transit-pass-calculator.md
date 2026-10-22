@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 교통패스 본전 계산기
+description: 교통패스 가격과 실제 일정의 개별 승차요금 합계를 비교합니다.
 permalink: /transit-pass-calculator/
 ---
 

@@ -1,6 +1,11 @@
 title: 여행 전 계산소
 description: 결제 전에 총비용·시간·숨은 조건까지 계산합니다.
+url: https://younghwankil.github.io
+baseurl: /travel-cardnews-wiki
 theme: minima
 lang: ko-KR
 markdown: kramdown
+exclude:
+  - CLAUDE.md
+  - downloads/travel-booking-checklist.md
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 여행 eSIM 용량 계산기
+description: 평소 데이터 사용량과 여행 일수로 여행 eSIM 비교 용량을 계산합니다.
 permalink: /esim-calculator/
 ---
 

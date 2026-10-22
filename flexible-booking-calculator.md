@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 무료취소 요금 손익분기 계산기
+description: 환불불가와 무료취소 숙소 요금의 차이를 취소 가능성과 비교합니다.
 permalink: /flexible-booking-calculator/
 ---
 
