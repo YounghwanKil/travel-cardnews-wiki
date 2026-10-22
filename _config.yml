@@ -5,6 +5,11 @@ baseurl: /travel-cardnews-wiki
 theme: minima
 lang: ko-KR
 markdown: kramdown
+header_pages:
+  - links.md
+  - published.md
+  - methodology.md
+  - monetization.md
 exclude:
   - CLAUDE.md
   - downloads/travel-booking-checklist.md

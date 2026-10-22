@@ -17,6 +17,8 @@ title: 여행 전 계산소
 - [eSIM 용량 계산기](/travel-cardnews-wiki/esim-calculator/)
 - [무료취소 요금 손익분기 계산기](/travel-cardnews-wiki/flexible-booking-calculator/)
 - [교통패스 본전 계산기](/travel-cardnews-wiki/transit-pass-calculator/)
+- [DCC 추가비용 계산기](/travel-cardnews-wiki/dcc-cost-calculator/)
+- [액티비티 출발시각 계산기](/travel-cardnews-wiki/activity-departure-calculator/)
 
 ## 운영 범위
 
