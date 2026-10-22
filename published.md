@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 발행 콘텐츠와 근거
+permalink: /published/
 ---
 
 # 발행 콘텐츠와 근거
