@@ -11,6 +11,7 @@ title: 여행 전 계산소
 
 - [검증 방법](/travel-cardnews-wiki/methodology/)
 - [벤치마크에서 배운 편집 원칙](/travel-cardnews-wiki/benchmarks/)
+- [수익화와 제휴 원칙](/travel-cardnews-wiki/monetization/)
 
 ## 운영 범위
 
