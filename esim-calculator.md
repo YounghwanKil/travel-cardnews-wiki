@@ -4,8 +4,6 @@ title: 여행 eSIM 용량 계산기
 permalink: /esim-calculator/
 ---
 
-# 여행 eSIM 용량 계산기
-
 평소 사용량과 여행 일수로 필요한 데이터의 기준선을 계산합니다. 결과는 특정 상품 추천이나 평균 사용량이 아닙니다. 입력값은 브라우저 안에서만 계산되며 서버로 전송하지 않습니다.
 
 <div id="esim-calculator" style="max-width:680px">
