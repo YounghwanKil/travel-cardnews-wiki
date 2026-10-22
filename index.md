@@ -14,6 +14,7 @@ title: 여행 전 계산소
 - [수익화와 제휴 원칙](/travel-cardnews-wiki/monetization/)
 - [발행 콘텐츠와 근거](/travel-cardnews-wiki/published/)
 - [여행 전 무료 도구](/travel-cardnews-wiki/links/)
+- [eSIM 용량 계산기](/travel-cardnews-wiki/esim-calculator/)
 
 ## 운영 범위
 
