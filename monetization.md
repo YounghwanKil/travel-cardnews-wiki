@@ -15,3 +15,5 @@ permalink: /monetization/
 - 환불·취소가 많은 상품은 클릭이나 매출이 높아도 추천하지 않습니다.
 
 현재 공개된 게시물에는 제휴 링크가 없습니다. 제휴가 시작되면 게시물별 공개 문구와 확인일을 함께 남깁니다.
+
+[제휴·협업 미디어킷 보기](/travel-cardnews-wiki/partnerships/)
