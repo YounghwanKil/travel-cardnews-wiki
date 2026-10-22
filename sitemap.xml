@@ -6,7 +6,7 @@ permalink: /sitemap.xml
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {% assign public_pages = site.pages | where_exp: "page", "page.sitemap != false" %}
 {% for page in public_pages %}
-{% if page.url and page.url != '/404.html' and page.url != '/feed.xml' and page.url != '/sitemap.xml' and page.url != '/robots.txt' %}
+{% if page.url and page.url != '/404.html' and page.url != '/feed.xml' and page.url != '/sitemap.xml' and page.url != '/robots.txt' and page.url != '/assets/main.css' %}
   <url>
     <loc>{{ page.url | absolute_url | xml_escape }}</loc>
   </url>
