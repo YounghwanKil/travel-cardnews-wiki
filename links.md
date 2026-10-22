@@ -19,6 +19,7 @@ permalink: /links/
 - [예약 직전 체크리스트](/travel-cardnews-wiki/checklist/) — 항공권·숙소·교통·통신·액티비티 결제 전에 확인할 항목입니다.
 - [체크리스트 PDF 다운로드](/travel-cardnews-wiki/downloads/travel-booking-checklist.pdf) — 휴대전화에 저장하거나 인쇄할 수 있습니다.
 - [발행 카드뉴스와 근거](/travel-cardnews-wiki/published/) — Instagram 게시물별 출처와 원본 카드를 확인합니다.
+- [여행 결제 가이드](/travel-cardnews-wiki/guides/) — 발행된 카드뉴스를 검색 가능한 체크리스트형 글로 읽습니다.
 - [Instagram @trip.beforepay](https://www.instagram.com/trip.beforepay/) — 새 계산표와 체크리스트를 받아보세요.
 
 현재 이 페이지에는 제휴 링크가 없습니다. 제휴 링크가 추가되면 버튼보다 앞에 경제적 이해관계를 명확히 표시합니다.

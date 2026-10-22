@@ -10,6 +10,7 @@ permalink: /published/
 
 - 발행일: 2026-10-23
 - Instagram: [게시물 보기](https://www.instagram.com/trip.beforepay/p/Dezh-tcGWSa/)
+- 검색용 가이드: [결제 전 확인 순서로 읽기](/travel-cardnews-wiki/guides/cnt-001/)
 - 근거 확인일: 2026-10-23
 - 제휴 여부: 제휴 링크 없음
 - 핵심 검증: 한국소비자원 자료에서 항공권 구매처별 추가 취소수수료, 영업시간 외 처리 지연 가능성, 영문명·여권정보 변경 주의 사항을 확인했습니다.
