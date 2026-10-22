@@ -13,6 +13,7 @@ permalink: /links/
 - [여행 총비용 계산기](/travel-cardnews-wiki/calculator/) — 항공권부터 현지 교통, 수수료, 예비비까지 한 번에 합산합니다.
 - [여행 eSIM 용량 계산기](/travel-cardnews-wiki/esim-calculator/) — 평소 사용량과 여행 일수로 비교할 데이터 용량을 계산합니다.
 - [예약 직전 체크리스트](/travel-cardnews-wiki/checklist/) — 항공권·숙소·교통·통신·액티비티 결제 전에 확인할 항목입니다.
+- [체크리스트 PDF 다운로드](/travel-cardnews-wiki/downloads/travel-booking-checklist.pdf) — 휴대전화에 저장하거나 인쇄할 수 있습니다.
 - [발행 카드뉴스와 근거](/travel-cardnews-wiki/published/) — Instagram 게시물별 출처와 원본 카드를 확인합니다.
 - [Instagram @trip.beforepay](https://www.instagram.com/trip.beforepay/) — 새 계산표와 체크리스트를 받아보세요.
 

@@ -8,6 +8,8 @@ permalink: /checklist/
 
 표시가격 대신 실제 결제액과 변경 가능성을 비교하기 위한 체크리스트입니다. 상품별 최신 규정은 결제 화면과 공식 운영사에서 다시 확인하세요.
 
+[PDF로 저장하기](/travel-cardnews-wiki/downloads/travel-booking-checklist.pdf)
+
 ## 항공권
 
 - 최종 결제금액에 세금·발권 수수료가 포함됐는가?
