@@ -9,6 +9,9 @@ title: 일본여행 결제 전 계산소
 
 이 사이트는 Instagram 카드뉴스의 근거와 업데이트 기록을 공개하는 위키입니다. 직접 경험하지 않은 내용을 여행 후기처럼 표현하지 않습니다.
 
+- [검증 방법](/travel-cardnews-wiki/methodology/)
+- [벤치마크에서 배운 편집 원칙](/travel-cardnews-wiki/benchmarks/)
+
 ## 준비 중
 
 - 첫 도시 선정
