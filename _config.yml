@@ -10,6 +10,7 @@ header_pages:
   - published.md
   - methodology.md
   - monetization.md
+  - privacy.md
 exclude:
   - CLAUDE.md
   - downloads/travel-booking-checklist.md
