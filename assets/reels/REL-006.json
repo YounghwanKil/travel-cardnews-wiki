@@ -1,0 +1,17 @@
+{
+  "id": "REL-006",
+  "title": "공항에서 캐리어 다시 열기 싫다면",
+  "checkedAt": "2026-10-29",
+  "promotedAt": "2026-10-28T18:08:04Z",
+  "video": "REL-006.mp4",
+  "poster": "REL-006-poster.jpg",
+  "sha256": "4527b203dd43aba58d5534ddab840180a51d4863e85abacc9f7141a09aa3a40e",
+  "sourceRecord": "010-airport-luggage/episode.json",
+  "voice": {
+    "provider": "ElevenLabs",
+    "name": "영환 목소리 녹음",
+    "voiceId": "vE6T2G4sbaMcQNVFpnKv",
+    "modelId": "eleven_v4"
+  },
+  "publicationException": "User approved another immediate post after reviewing the visual cut and requesting ElevenLabs narration; a separate final listening-QA record is absent."
+}
