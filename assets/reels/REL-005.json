@@ -1,0 +1,11 @@
+{
+  "id": "REL-005",
+  "title": "보조배터리, 캐리어에 넣으면 다시 열 수 있어",
+  "checkedAt": "2026-10-29",
+  "promotedAt": "2026-10-28T18:02:30Z",
+  "video": "REL-005.mp4",
+  "poster": "REL-005-poster.jpg",
+  "sha256": "a20ec602d93f3c4ce89e9d6a64a152f999d7bc58929c0df518290e655400a4f2",
+  "sourceRecord": "011-powerbank-carryon/episode.json",
+  "publicationException": "User explicitly approved immediate publication of the current BGM-and-caption version without narration, final Gemini review, or recorded human audiovisual QA."
+}
