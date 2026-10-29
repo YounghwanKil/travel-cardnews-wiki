@@ -3,6 +3,9 @@
   "title": "OTA 항공권 결제 후, 일정 변경 알림 놓치지 않는 법",
   "checkedAt": "2026-10-23",
   "promotedAt": "2026-10-29T10:11:22.954Z",
+  "repairedAt": "2026-10-29T11:42:36Z",
+  "renderingFont": "Apple SD Gothic Neo",
+  "repairReason": "Replaced Ubuntu renders that were missing Korean glyphs.",
   "slides": [
     "slide-01.png",
     "slide-02.png",
