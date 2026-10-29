@@ -17,6 +17,7 @@ title: 여행 전 계산소
 - [발행 콘텐츠와 근거](/travel-cardnews-wiki/published/)
 - [검색 가능한 여행 결제 가이드](/travel-cardnews-wiki/guides/)
 - [여행 전 무료 도구](/travel-cardnews-wiki/links/)
+- [여행 준비물 비교 링크](/travel-cardnews-wiki/gear/) — 쿠팡 파트너스 제휴 고지 포함
 - [eSIM 용량 계산기](/travel-cardnews-wiki/esim-calculator/)
 - [무료취소 요금 손익분기 계산기](/travel-cardnews-wiki/flexible-booking-calculator/)
 - [교통패스 본전 계산기](/travel-cardnews-wiki/transit-pass-calculator/)
