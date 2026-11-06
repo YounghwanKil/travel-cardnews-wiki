@@ -15,3 +15,4 @@ Instagram에 실제 발행된 카드뉴스만 검색 가능한 글로 정리합�
 - [환불불가 50만원 vs 무료취소 55만원, 손익분기는 9.1%](/travel-cardnews-wiki/guides/cnt-004/) — 2026-10-30
 - [나리타공항에서 도쿄역, 버스·NEX·택시 총비용 비교](/travel-cardnews-wiki/guides/cnt-005/) — 2026-11-02
 - [오사카 외곽 숙소 1박 3만원 절약, 위치 비용까지 계산하면](/travel-cardnews-wiki/guides/cnt-006/) — 2026-11-04
+- [여행 eSIM 3GB·5GB·10GB, 내 사용량으로 계산하는 법](/travel-cardnews-wiki/guides/cnt-007/) — 2026-11-06
