@@ -1,0 +1,17 @@
+{
+  "id": "CNT-008",
+  "title": "해외 결제창에 KRW가 뜨면, DCC 비용부터 확인하세요",
+  "checkedAt": "2026-10-23",
+  "promotedAt": "2026-11-09T20:55:26.409Z",
+  "slides": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png",
+    "slide-05.png",
+    "slide-06.png",
+    "slide-07.png",
+    "slide-08.png"
+  ],
+  "sourceRecord": "CNT-008.json"
+}
